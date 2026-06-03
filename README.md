@@ -112,3 +112,8 @@ http://localhost:5173
 * style: mejorar interfaz de preguntas
 ![](docs/image08.png)
 ---
+
+## Deploy
+
+https://lab12-evaluaci-n-dae.vercel.app/
+
